@@ -1,0 +1,13 @@
+div{
+    border: 10px solid blue;
+    border-radius: 1000px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    width: 200px;  
+    font-size: 2em;
+    background-color: aqua;
+     
+
+}
